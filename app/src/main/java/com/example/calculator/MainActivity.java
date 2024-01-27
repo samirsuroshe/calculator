@@ -12,7 +12,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     EditText input1, input2;
-    TextView result, getResult;
+    TextView result, getResult, setResult;
     Button add,sub,mul,div,clear;
 
     @Override
